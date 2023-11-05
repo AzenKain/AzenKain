@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">About Me </h2>
-<div align="center">
-    <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
-</div>
-<div align ="center">
+<!-- <div align ="center">
     <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS-Linux">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
@@ -43,8 +40,8 @@ Here are some ideas to get you started:
 <hr width="100%">
 <a href="https://app.daily.dev/lebathang"><img align="right"
         src="https://api.daily.dev/devcards/ee98497bac234fe4886bf7bd42098d69.png?r=etl" width="400"
-        alt="Lê Bá Thắng's Dev Card" />
-<div>
+        alt="Kain's Dev Card" />
+<div> -->
 ```python
 from typing import Tuple, List, Dict
 
