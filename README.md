@@ -62,9 +62,9 @@ class Attributes(Kain):
 
 <p align="center">
   <a href="https://raw.githubusercontent.com">
-      <img src="https://raw.githubusercontent.com/Kain344/cf-stats/main/output/max_rating.svg"/>
-      <img src="https://raw.githubusercontent.com/Kain344/cf-stats/main/output/rating.svg"/>
-      <img src="https://raw.githubusercontent.com/Kain344/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
+      <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/max_rating.svg"/>
+      <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/rating.svg"/>
+      <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
   </a>
 </p>
 
