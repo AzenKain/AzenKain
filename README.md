@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/AzenKain?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=AzenKain&style=for-the-badge />
-</p> 
-
+</p>
 
 <h2 align="center">About Me </h2>
 
@@ -37,7 +35,7 @@ class Attributes(Kain):
         discord = "kain0304"
         facebook = "/AzenKain"
         email = "azenkain344@gmail.com"
-        
+
         return discord, facebook, email
 
     @property
@@ -59,13 +57,13 @@ class Attributes(Kain):
 
         return langs, specialities, environnement
 ```
+
 <div align="center"> 
     <a href="https://raw.githubusercontent.com">
         <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/max_rating.svg"/>
         <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/rating.svg"/>
     </a>
 </div>
-
 
 <p align="center">
   <a href="https://raw.githubusercontent.com">
@@ -88,4 +86,3 @@ class Attributes(Kain):
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/808374493109157909/>
 </p>
-
