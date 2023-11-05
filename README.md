@@ -59,6 +59,15 @@ class Attributes(Kain):
 
         return langs, specialities, environnement
 ```
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com">
+      <img src="https://raw.githubusercontent.com/Kain344/cf-stats/main/output/max_rating.svg"/>
+      <img src="https://raw.githubusercontent.com/Kain344/cf-stats/main/output/rating.svg"/>
+      <img src="https://raw.githubusercontent.com/Kain344/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
+  </a>
+</p>
+
 <h2 align="center">Skills </h2>
 
 <p align="center">
