@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- <p align="center">
+<p align="center">
     <img alt="" src=https://img.shields.io/github/stars/AzenKain?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=AzenKain&style=for-the-badge />
-</p> -->
+</p> 
 
 
 <h2 align="center">About Me </h2>
