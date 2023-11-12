@@ -84,5 +84,5 @@ class Attributes(Kain):
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/808374493109157909/>
+    <img alt="" src="https://lanyard.cnrad.dev/api/808374493109157909"/>
 </p>
