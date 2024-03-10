@@ -49,10 +49,10 @@ class Attributes(Kain):
     def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
         langs = {
             'expert': [''],
-            'intermediate': ['python', 'c#', 'c++'],
-            'learning': ['js', 'asm', 'java']
+            'intermediate': ['python', 'c#', 'c++', 'js', 'ts'],
+            'learning': ['asm', 'java']
         }
-        specialities = ['unity developer']
+        specialities = ['unity developer', 'backend developer']
         environnement = ['vscode', 'visual studio', 'unity']
 
         return langs, specialities, environnement
