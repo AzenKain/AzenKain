@@ -50,9 +50,9 @@ class Attributes(Kain):
         langs = {
             'expert': [''],
             'intermediate': ['python', 'c#', 'c++', 'js', 'ts'],
-            'learning': ['asm', 'java']
+            'learning': ['dart','asm', 'java']
         }
-        specialities = ['unity developer', 'backend developer']
+        specialities = ['unity developer', 'backend developer', 'mobile application developer']
         environnement = ['vscode', 'visual studio', 'unity']
 
         return langs, specialities, environnement
@@ -75,7 +75,7 @@ class Attributes(Kain):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,visualstudio,unity,c,cs,cpp,js,css,html"/>
+    <img src="https://skillicons.dev/icons?i=python,vscode,visualstudio,unity,c,cs,cpp,js,css,HTML,dart,java"/>
   </a>
 </p>
 
