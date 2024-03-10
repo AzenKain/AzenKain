@@ -75,7 +75,7 @@ class Attributes(Kain):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,visualstudio,unity,c,cs,cpp,js,css,HTML,dart,java"/>
+    <img src="https://skillicons.dev/icons?i=py,vscode,visualstudio,unity,react,nestjs,fastapi,androidstudio,c,cs,cpp,js,css,html,dart,java"/>
   </a>
 </p>
 
