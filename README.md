@@ -34,7 +34,7 @@ class Attributes(Kain):
     def contact(self) -> Tuple[str, str, str]:
         discord = "kain0304"
         facebook = "/AzenKain"
-        email = "azenkain344@gmail.com"
+        email = "doduykhanh344@gmail.com"
 
         return discord, facebook, email
 
