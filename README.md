@@ -1,19 +1,35 @@
 ### KAIN
 
-<!--
-**AzenKain/AzenKain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌟 AzenKain 🌟  
 
-Here are some ideas to get you started:
+Welcome to my quirky corner of the internet!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently working on  
+- Exploring new tech, sometimes just to look cooler.  
+
+## 🌱 Currently learning  
+- How do I make my code both functional *and* beautiful (the ultimate challenge!)?  
+- Staying calm when my console is screaming red errors at me.  
+
+## 👯 Looking to collaborate  
+- If you love coffee, coding, and anime world, we’re already best friends!  
+
+## 🤔 I need help with  
+- I'm figuring out why APIs love throwing 500 errors just to ruin my day 🌈.  
+
+## 💬 Ask me about  
+- Debugging adventures that’ll make you laugh and cry at the same time.  
+- Managing time between coding and... well, more coding.  
+
+## 📫 How to reach me  
+- Send me a message via carrier pigeon (or just use email).  
+
+## 😄 Pronouns  
+- Code/Nerd  
+
+## ⚡ Fun fact  
+- I’ve probably broken something today, but hey, breaking stuff is part of learning! 🎉  
+
 
 <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/AzenKain?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
@@ -41,7 +57,7 @@ class Attributes(Kain):
     @property
     def life(self) -> Tuple[List[str], int]:
         langs = ['Vietnamese', 'Japanese', 'English']
-        age = 19
+        age = 20
 
         return langs, age
 
