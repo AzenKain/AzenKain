@@ -50,10 +50,10 @@ class Attributes(Kain):
         langs = {
             'expert': [''],
             'intermediate': ['golang','python', 'c#', 'c++', 'js', 'ts'],
-            'learning': ['dart','asm', 'java']
+            'learning': ['asm', 'java']
         }
         specialities = ['unity developer', 'web developer', 'data engineer']
-        ide = ['vscode', 'visual studio', 'unity']
+        ide = ['vscode', 'visual studio', 'webstorm', 'unity']
 
         return langs, specialities, environnement
 ```
