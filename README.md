@@ -49,11 +49,11 @@ class Attributes(Kain):
     def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
         langs = {
             'expert': [''],
-            'intermediate': ['python', 'c#', 'c++', 'js', 'ts'],
+            'intermediate': ['golang','python', 'c#', 'c++', 'js', 'ts'],
             'learning': ['dart','asm', 'java']
         }
-        specialities = ['unity developer', 'backend developer', 'mobile application developer']
-        environnement = ['vscode', 'visual studio', 'unity']
+        specialities = ['unity developer', 'web developer', 'data engineer']
+        ide = ['vscode', 'visual studio', 'unity']
 
         return langs, specialities, environnement
 ```
@@ -62,7 +62,7 @@ class Attributes(Kain):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,visualstudio,unity,react,nestjs,fastapi,androidstudio,c,cs,cpp,js,css,html,dart,java"/>
+    <img src="https://skillicons.dev/icons?i=go,py,vscode,visualstudio,unity,react,nestjs,fastapi,androidstudio,c,cs,cpp,js,css,html,dart,java"/>
   </a>
 </p>
 
