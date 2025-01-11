@@ -5,15 +5,8 @@ Welcome to my quirky corner of the internet!
 ###  🔭 Currently working on  
 - Exploring new tech, sometimes just to look cooler.  
 
-###  🌱 Currently learning  
-- How do I make my code both functional *and* beautiful (the ultimate challenge!)?  
-- Staying calm when my console is screaming red errors at me.  
-
 ###  👯 Looking to collaborate  
 - If you love coffee, coding, and anime world, we’re already best friends!  
-
-###  🤔 I need help with  
-- I'm figuring out why APIs love throwing 500 errors just to ruin my day 🌈.  
 
 ## 💬 Ask me about  
 - Debugging adventures that’ll make you laugh and cry at the same time.  
@@ -22,12 +15,8 @@ Welcome to my quirky corner of the internet!
 ###  📫 How to reach me  
 - Send me a message via carrier pigeon (or just use email).  
 
-###  😄 Pronouns  
-- Code/Nerd  
-
 ###  ⚡ Fun fact  
 - I’ve probably broken something today, but hey, breaking stuff is part of learning! 🎉  
-
 
 <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/AzenKain?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
