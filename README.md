@@ -69,6 +69,7 @@ class Attributes(Kain):
   </a>
 </p>
 
+<!--
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=AzenKain&theme=tokyonight&show_icons=true"/>
 </p>
@@ -88,3 +89,4 @@ class Attributes(Kain):
       <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
   </a>
 </p>
+-->
