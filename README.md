@@ -36,10 +36,9 @@ class Attributes(Kain):
     @property
     def contact(self) -> Tuple[str, str, str]:
         discord = "kain0304"
-        facebook = "/AzenKain"
-        email = "doduykhanh344@gmail.com"
+        git = "https://github.com/AzenKain"
 
-        return discord, facebook, email
+        return discord, github
 
     @property
     def life(self) -> Tuple[List[str], int]:
