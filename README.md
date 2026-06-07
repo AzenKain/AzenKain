@@ -1,91 +1,47 @@
-### KAIN
+<div align="center">
 
-Welcome to my quirky corner of the internet!  
+# KAIN
 
-###  🔭 Currently working on  
-- Exploring new tech, sometimes just to look cooler.  
+Backend Developer • AI Enthusiast
 
-###  👯 Looking to collaborate  
-- If you love coffee, coding, and anime world, we’re already best friends!  
+Turning random ideas into software.
 
-## 💬 Ask me about  
-- Debugging adventures that’ll make you laugh and cry at the same time.  
-- Managing time between coding and... well, more coding.  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer;AI+Enthusiast;Go+%7C+Python+%7C+TypeScript" />
 
-###  📫 How to reach me  
-- Send me a message via carrier pigeon (or just use email).  
+<br>
 
-###  ⚡ Fun fact  
-- I’ve probably broken something today, but hey, breaking stuff is part of learning! 🎉  
-
-<p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/AzenKain?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=AzenKain&style=for-the-badge />
-</p>
-
-<h2 align="center">About Me </h2>
-
-```python
-from typing import Tuple, List, Dict
-
-class Kain(object):
-    pass
-
-
-class Attributes(Kain):
-    @property
-    def contact(self) -> Tuple[str, str, str]:
-        discord = "kain0304"
-        git = "https://github.com/AzenKain"
-
-        return discord, github
-
-    @property
-    def life(self) -> Tuple[List[str], int]:
-        langs = ['Vietnamese', 'Japanese', 'English']
-        age = 20
-
-        return langs, age
-
-    @property
-    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
-        langs = {
-            'expert': [''],
-            'intermediate': ['golang','python', 'c#', 'c++', 'js', 'ts'],
-            'learning': ['asm', 'java']
-        }
-        specialities = ['unity developer', 'web developer', 'data engineer']
-        ide = ['vscode', 'visual studio', 'webstorm', 'unity']
-
-        return langs, specialities, environnement
-```
-
-<h2 align="center">Skills </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,py,c,cs,cpp,java,js,ts,unity,react,nextjs,nestjs,fastapi,spring,mongodb,mysql,postgres,docker,git,webstorm,pycharm,vscode,visualstudio,css,tailwind,html"/>
-  </a>
-</p>
-
-<!--
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=AzenKain&theme=tokyonight&show_icons=true"/>
-</p>
-
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://lanyard.cnrad.dev/api/808374493109157909"/>
-</p>
-
-<div align="center"> 
-    <a href="https://raw.githubusercontent.com">
-        <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/max_rating.svg"/>
-        <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/rating.svg"/>
-    </a>
+<img src="https://komarev.com/ghpvc/?username=AzenKain&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/AzenKain?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/AzenKain?style=for-the-badge&color=yellow" />
 </div>
-<p align="center">
-  <a href="https://raw.githubusercontent.com">
-      <img src="https://raw.githubusercontent.com/AzenKain/cf-stats/main/output/light_card.svg#gh-dark-mode-only"/>
-  </a>
-</p>
--->
+
+## About Me
+
+Hi, I'm Kain.
+
+I enjoy building backend systems, experimenting with AI, and working on personal projects.
+
+Most of my projects start in a day.
+
+Finishing them is a different story.
+
+## Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,py,ts,bun,react,nextjs,cloudflare,vscode,postgres,mysql,mongodb,redis,docker,linux,debian,githubactions,git&perline=9" />
+</div>
+
+## GitHub Stats
+<table align="center">
+<tr>
+<td>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzenKain&theme=tokyonight" />
+</td>
+<td>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AzenKain&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzenKain&theme=tokyonight&bg_color=1a1b26&hide_border=true" />
+</div>
